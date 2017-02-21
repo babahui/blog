@@ -4,7 +4,7 @@ title: mathematics sample
 date: 2017-02-21 15:46
 comments: true
 external-url:
-categories: Mathematics
+categories: mathematics
 ---
 
 thisis a test
