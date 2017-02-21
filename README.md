@@ -1,9 +1,10 @@
-# Papyrus - Jekyll Theme
+# yorick blog
 
-Papyrus is a responsive three-column Jekyll theme with classic styling and careful typographic details.
+record software, mathmatic experience and problem
 
-Loosely based on the [Onelight Atom Theme](https://github.com/atom/one-light-ui).
+blog url is [babahui.github.io/yorick](https://babahui.github.io/yorick)
 
+<!--
 ## Install and Test
 
 1. Download or clone the repo
@@ -22,3 +23,4 @@ Loosely based on the [Onelight Atom Theme](https://github.com/atom/one-light-ui)
 ## Preview
 
 ![Theme preview](/assets/screenshot.png)
+-->
