@@ -4,7 +4,7 @@ title: software engeering sample
 date: 2017-02-21 15:46
 comments: true
 external-url:
-categories: Software Engineering
+categories: Software-Engineering
 ---
 
 thisis a test
