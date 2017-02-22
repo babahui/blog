@@ -1,3 +1,12 @@
+---
+layout: post
+title: markdown test
+date: 2017-02-21 15:46
+comments: true
+external-url:
+categories: mathematics
+---
+
 <div id="table-of-contents">
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
