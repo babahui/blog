@@ -28,7 +28,7 @@ plt.show()
 ```
 
 
-![png](../assets/output_0_0.png)
+![png](https://babahui.github.com/output_0_0.png)
 
 
 
@@ -47,7 +47,15 @@ plt.show()
 ```
 
 
-![png](/assets/output_1_0.png)
+![png1](../assets/output_1_0.png)
+![png2](https://github.com/babahui/yorick/assets/output_1_0.png)
+![png3](https://babahui.github.com/yorick/assets/output_1_0.png)
+![png4](/assets/output_1_0.png)
+![png5](output_1_0.png)
+![png6](/_posts/output_1_0.png)
+
+
+
 
 
 
