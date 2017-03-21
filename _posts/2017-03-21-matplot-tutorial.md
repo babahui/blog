@@ -69,7 +69,7 @@ plt.show()
 ```
 
 
-![png]("https://babahui.github.com/yorick/assets/output_2_0.png")
+![png](https://babahui.github.com/yorick/assets/output_2_0.png)
 
 
 
