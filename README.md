@@ -23,4 +23,5 @@ blog url is [babahui.github.io/yorick](https://babahui.github.io/yorick)
 ## Preview
 
 ![Theme preview](/assets/screenshot.png)
+
 -->

@@ -28,7 +28,7 @@ plt.show()
 ```
 
 
-![png](output_0_0.png)
+![png](../assets/output_0_0.png)
 
 
 
@@ -47,7 +47,7 @@ plt.show()
 ```
 
 
-![png](output_1_0.png)
+![png](/assets/output_1_0.png)
 
 
 
@@ -67,7 +67,7 @@ plt.show()
 ```
 
 
-![png](output_2_0.png)
+![png]("../assets/output_2_0.png")
 
 
 
